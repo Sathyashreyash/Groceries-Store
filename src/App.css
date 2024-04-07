@@ -1,0 +1,21 @@
+
+:root {
+  --col1: rgb(228, 106, 66);
+  --col2: grey;
+  --col3: #fff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+#dropdown-basic {
+   outline: none;
+   border: none;
+   margin: 0;
+   padding: 0;
+   background-color: green;
+}
